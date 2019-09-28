@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Avans Weatherstation",
+        "description": "The Avans Weatherstation is an application written in Java. This program calls Avans' Weatherstation database to get current an past weather values.",
+        "preview_image": "",
+        "images": [
+            ""
+        ],
+        "videos": [
+            ""
+        ]
+    }
+]
